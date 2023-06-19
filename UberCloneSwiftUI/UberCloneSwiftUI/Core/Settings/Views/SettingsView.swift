@@ -1,6 +1,6 @@
 //
 //  SettingsView.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
 //  Created by Sudharshan S H on 03/03/22.
 //
