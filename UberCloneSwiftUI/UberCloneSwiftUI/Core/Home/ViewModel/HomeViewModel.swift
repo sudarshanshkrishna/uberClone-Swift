@@ -1,6 +1,6 @@
 //
 //  HomeViewModel.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
 //  Created by Sudharshan S H on 12/04/22.
 //
