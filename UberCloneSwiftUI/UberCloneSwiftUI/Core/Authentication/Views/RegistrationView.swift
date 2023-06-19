@@ -1,6 +1,6 @@
 //
 //  RegistrationView.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
 //  Created by Sudharshan S H on 12/03/22.
 //
