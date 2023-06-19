@@ -1,6 +1,6 @@
 //
 //  UberSwiftUITutorialApp.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
 //  Created by Sudharshan S H on 9/03/22.
 //
