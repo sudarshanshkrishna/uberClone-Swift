@@ -1,8 +1,8 @@
 //
 //  SavedLocationSearchView.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
-//  Created by Sudharshan S H on 12/03/22.
+//  Created by Sudharshan S H on 03/03/22.
 //
 
 import SwiftUI
