@@ -1,8 +1,8 @@
 //
 //  HomeView.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
-//  Created by Sudharshan S H on 16/05/22.
+//  Created by Sudharshan S H on 03/03/22.
 //
 
 import SwiftUI
