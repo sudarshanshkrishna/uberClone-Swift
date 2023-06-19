@@ -1,8 +1,8 @@
 //
 //  Color.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
-//  Created by Sudarshan SH on 25/03/23.
+//  Created by Sudharshan S H on 03/03/22.
 //
 
 
