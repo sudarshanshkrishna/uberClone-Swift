@@ -2,7 +2,7 @@
 //  AuthViewModel.swift
 //  UberSwiftUITutorial
 //
-//  Created by Stephan Dowless on 12/13/22.
+//  Created by Sudharshan S H on 12/03/22.
 //
 
 import Foundation
