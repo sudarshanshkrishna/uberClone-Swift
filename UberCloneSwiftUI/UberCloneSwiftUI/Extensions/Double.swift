@@ -1,8 +1,8 @@
 //
 //  Double.swift
-//  UberSwiftUITutorial
+//  UberCloneSwiftUI
 //
-//  Created by Stephan Dowless on 9/14/22.
+//  Created by Sudharshan S H on 03/03/22.
 //
 
 import Foundation
